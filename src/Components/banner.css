@@ -1,0 +1,11 @@
+.bannerContainer{
+    background-color: #23238E;
+    padding: 100px;
+    border-bottom:5px solid black;
+
+}
+
+.bannerContainer h1{
+    text-align: center;
+    color: whitesmoke;
+}
