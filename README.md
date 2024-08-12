@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 Instalar o npm
+dar um npm run dev
