@@ -15,7 +15,11 @@
     max-width: 250px;
     height: 80px;
     box-shadow: 0 2px 4px rgb(34, 87, 185);
-
+    /* Flex Box*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .card h2 {

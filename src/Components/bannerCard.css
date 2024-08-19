@@ -1,0 +1,25 @@
+.banner {
+    border: 1px solid black;
+    background-color: #1e0bd0;
+    margin: auto;
+    max-width: 1000px;
+    height: 110px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    /* Flex Box*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1 {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.banner h2 {
+    color: #19e5e8;
+    font-size: 16px;
+}
