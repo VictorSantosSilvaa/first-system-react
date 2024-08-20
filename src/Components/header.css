@@ -1,0 +1,19 @@
+header {
+    background-color: #3299CC;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+h1 {
+    margin: 0;
+    font-Size: '24px';
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
